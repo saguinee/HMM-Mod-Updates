@@ -1,5 +1,4 @@
 add mod.ini
-add ColorsSonic.ini
 add ColorsSonic.dll
 add bb3.ini
 add Sonic.ar.00
