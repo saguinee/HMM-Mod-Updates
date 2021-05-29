@@ -1,6 +1,7 @@
-## Colors Sonic Version 1.0.2
+## Colors Sonic Version 1.2
 - Fixed jumpball speed rotating too fast.
+- Now appears on the title screen and in cutscenes
 ## Colors Sonic Version 1.0.1
-- Fixed config defaulting to Red Sim Sonic.
+- Fixed config defaulting to Red Sim Sonic
 ## Colors Sonic Version 1.0
 - First release
