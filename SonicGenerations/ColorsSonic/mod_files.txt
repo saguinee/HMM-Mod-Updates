@@ -8,3 +8,8 @@ add Sonic.ar.02
 add Sonic.arl
 add #ColorsSonic.ar.00
 add #ColorsSonic.arl
+add #SimulatorSonic.ar.00
+add #SimulatorSonic.ar.01
+add #SimulatorSonic.arl
+add #PBRSonic.ar.00
+add #PBRSonic.arl
