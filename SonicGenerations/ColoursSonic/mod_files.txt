@@ -1,0 +1,12 @@
+add mod.ini
+add ColorsSonic.dll
+add bb3.ini
+add Sonic.ar.00
+add Sonic.ar.01
+add Sonic.ar.02
+add Sonic.arl
+add #ColorsSonic.ar.00
+add #ColorsSonic.arl
+add #SimulatorSonic.ar.00
+add #SimulatorSonic.ar.01
+add #SimulatorSonic.arl
