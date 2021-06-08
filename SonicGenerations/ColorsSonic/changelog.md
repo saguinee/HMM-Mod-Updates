@@ -1,3 +1,5 @@
+## Colors Sonic Version 1.2.2
+- Changed drift to used the Colors Spin model. Please use Skyth's Unleashed Drift mod for a more accurate representation of Colors' drifting.
 ## Colors Sonic Version 1.2.1
 - Blue Simulator's eye and body textures now appear on the title screen
 ## Colors Sonic Version 1.2
