@@ -1,0 +1,2 @@
+add #SonicClassic.ar.00
+add #SonicClassic.arl
