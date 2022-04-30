@@ -4,9 +4,15 @@ add bb3.ini
 add Sonic.ar.00
 add Sonic.ar.01
 add Sonic.ar.02
+add Sonic.ar.03
 add Sonic.arl
 add #ColorsSonic.ar.00
+add #ColorsSonic.ar.01
 add #ColorsSonic.arl
 add #SimulatorSonic.ar.00
 add #SimulatorSonic.ar.01
 add #SimulatorSonic.arl
+add SonicRankA.ar.00
+add SonicRankA.arl
+add SonicRankS.ar.00
+add SonicRankS.arl
