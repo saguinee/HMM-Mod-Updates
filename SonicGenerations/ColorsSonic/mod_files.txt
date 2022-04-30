@@ -16,3 +16,4 @@ add SonicRankA.ar.00
 add SonicRankA.arl
 add SonicRankS.ar.00
 add SonicRankS.arl
+add ColorsSonic.json
