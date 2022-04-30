@@ -14,6 +14,15 @@
                "DefaultValue": false
             },
             {
+               "Name": "EnableGenerations",
+               "DisplayName": "Enable Generations Sonic",
+               "Description": [
+                  "Revert Sonic's look from Colors while keeping his animations and jumpball.\n\nNOTE: Simulator Sonic will take priority if enabled."
+               ],
+               "Type": "bool",
+               "DefaultValue": false
+            },
+            {
                "Name": "SimulatorType",
                "DisplayName": "Simulator Sonic Color Selection",
                "Description": [
