@@ -1,3 +1,6 @@
+## Colors Sonic Version 1.4
+- Added option in the configuration menu to use Colors Ultimate Sonic, thanks to iulian204_
+- Revamped materials to closer resemble Colors Wii , also thanks to iulian204_
 ## Colors Sonic Version 1.3
 - S Rank and A Rank animations will now have the extreme jump height from Colors when using NextinHKRY's Colors HUD mod automatically (Preview video on GameBanana page)
 - Added option in the configuration menu to use the Generations textures/materials for Sonic

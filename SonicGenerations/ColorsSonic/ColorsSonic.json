@@ -5,22 +5,13 @@
          "DisplayName": "Appearance",
          "Elements": [
             {
-               "Name": "EnableSimulator",
-               "DisplayName": "Enable Simulator Sonic",
+               "Name": "SonicType",
+               "DisplayName": "Sonic Type",
                "Description": [
-                  "Play as Sonic as he appears in Game Land of Sonic Colors."
+                  "Choose from 4 different Sonic types."
                ],
-               "Type": "bool",
-               "DefaultValue": false
-            },
-            {
-               "Name": "EnableGenerations",
-               "DisplayName": "Enable Generations Sonic",
-               "Description": [
-                  "Revert Sonic's look from Colors while keeping his animations and jumpball.\n\nNOTE: Simulator Sonic will take priority if enabled."
-               ],
-               "Type": "bool",
-               "DefaultValue": false
+               "Type": "SonicType",
+               "DefaultValue": "0"
             },
             {
                "Name": "SimulatorType",
@@ -44,6 +35,36 @@
       }
    ],
    "Enums": {
+      "SonicType": [
+         {
+            "DisplayName": "Colors",
+			"Description": [
+				"Play as Sonic as he appears in Sonic Colors."
+			],
+            "Value": "0"
+         },
+         {
+            "DisplayName": "Simulator",
+			"Description": [
+				"Play as Sonic as he appears in Game Land of Sonic Colors."
+			],
+            "Value": "1"
+         },
+         {
+            "DisplayName": "Generations",
+			"Description": [
+				"Play as Sonic as he appears in Sonic Generations."
+			],
+            "Value": "2"
+         },
+         {
+            "DisplayName": "Colors Ultimate",
+			"Description": [
+				"Play as Sonic as he appears in Sonic Colors Ultimate."
+			],
+            "Value": "3"
+         }
+      ],
       "SimulatorType": [
          {
             "DisplayName": "Blue",
@@ -66,7 +87,6 @@
             "Value": "1"
          }
       ],
-
       "CostumeType": [
          {
             "DisplayName": "Default",
