@@ -1,3 +1,8 @@
+## Colors Sonic Version 2.0
+- Startup animations now alternate, thanks to brianuuuSonic
+- Several animation adjustments to the air boost, air dash, and homing attack, thanks to brianuuuSonic
+- Audio overhaul, thanks to MarioTainaka
+- Fixed the Super Sonic bug
 ## Colors Sonic Version 1.4
 - Added option in the configuration menu to use Colors Ultimate Sonic, thanks to iulian204_
 - Revamped materials to closer resemble Colors Wii , also thanks to iulian204_
