@@ -1,2 +1,2 @@
 ## Colours Sonic is NO MORE
-I DON'T WANNA MAINTAIN TWO FORKS ANYMORE JUST BECAUSE THE UK ADDS A SINGULAR LETTER TO THE WORD "COLOUR". I DON'T CARE!! If this doesn't pop up with another update to get the actual update labeled "Colors Sonic", then redownload from the Gamebanana page.
+I DON'T WANNA MAINTAIN TWO FORKS ANYMORE JUST BECAUSE THE UK ADDS A SINGULAR LETTER TO THE WORD "COLOUR". I DON'T CARE!! If this doesn't pop up with another update to get the actual update labeled "Colors Sonic", then redownload from the Gamebanana page. GOODBYE!!
